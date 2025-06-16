@@ -4,7 +4,7 @@ This capstone project presents an AI-powered solution to predict household energ
 
 My Deployment Link: https://aibasedenergyusagepredictionsystem-pratham.streamlit.app/
 
-## 🚀 Live App
+## 🚀 Live App (Group Leader)
 👉 [Click here to try the app](https://aibasedenergyusagepredictionsystem-devanshusawarkar.streamlit.app/)
 
 ## 🔍 Project Overview
@@ -15,6 +15,15 @@ The system utilizes historical power consumption data to forecast energy usage i
 - **Laundry Appliances**
 
 Predictions are made using separate LSTM models trained on the `Individual Household Electric Power Consumption` dataset. The application features a user-friendly interface built using Streamlit, allowing for intuitive interaction and visualization.
+
+## 📸 Screenshots
+
+| Interface           | Screenshot |
+|---------------------|------------|
+| 🏠 Home Page         | ![Home Page](your-image-link-here) |
+| 💳 Raw Data Preview   | ![Deposit](your-image-link-here) |
+| 📉 Usage Pattern Check  | ![Withdraw](your-image-link-here) |
+
 
 ## 🧠 Key Features
 
