@@ -20,9 +20,9 @@ Predictions are made using separate LSTM models trained on the `Individual House
 
 | Interface           | Screenshot |
 |---------------------|------------|
-| 🏠 Home Page         | ![Home Page](your-image-link-here) |
-| 💳 Raw Data Preview   | ![Deposit](your-image-link-here) |
-| 📉 Usage Pattern Check  | ![Withdraw](your-image-link-here) |
+| 🏠 Home Page         | ![Home Page](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_1.png) |
+| 💳 Raw Data Preview   | ![Deposit](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_2.png) |
+| 📉 Usage Pattern Check  | ![Withdraw](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_3.png) |
 
 
 ## 🧠 Key Features
