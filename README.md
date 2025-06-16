@@ -2,6 +2,8 @@
 
 This capstone project presents an AI-powered solution to predict household energy consumption using LSTM (Long Short-Term Memory) neural networks. The system is designed to enhance energy efficiency and provide actionable insights for smart energy management across different zones of a household.
 
+My Deployment Link: https://aibasedenergyusagepredictionsystem-pratham.streamlit.app/
+
 ## 🚀 Live App
 👉 [Click here to try the app](https://aibasedenergyusagepredictionsystem-devanshusawarkar.streamlit.app/)
 
